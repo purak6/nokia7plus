@@ -1,0 +1,20 @@
+[
+  {
+    "repository" : "milindjon/vendor_nokia",
+    "target_path": "vendor/nokia"
+    "branch": "pie",
+    "remote": "github"	
+  },
+  {
+    "repository" : "milindjon/kernel_nokia_sdm660",
+    "target_path": "kernel/nokia/sdm660"
+    "branch": "pie-330B",
+    "remote": "github"	
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0",
+    "remote": "github"
+  }
+]
