@@ -6,7 +6,7 @@ Nokia 7 Plus was announced and released in march 2018.
 
 | Device       |   Nokia 7 plus                                  |
 | -----------: | :---------------------------------------------- |
-| SoC          | Qualcomm SDM660 Snapdragon 636                  |
+| SoC          | Qualcomm SDM660 Snapdragon 660                  |
 | CPU          | 8x Qualcomm® Kryo™ 260 up to 1.8GHz             |
 | GPU          | Adreno 512                                      |
 | Memory       | 4GB                                             |
